@@ -6,3 +6,5 @@ Aims: To design a simple algorithm to speed up the computation of PageRank, in w
 
 Result: Adaptive and modified adaptive PageRank performs better than the original PageRank. Modified PageRank has accelerated the computation of Google's website by almost 40%.
 
+## Overview
+See documentation [here](./Overview.pdf)
